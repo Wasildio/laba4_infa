@@ -1,0 +1,12 @@
+{ "value": "root"}
+{ "value": "root", "children": [{ "value": "1"}]}
+{ "value": "root", "children": [{ "value": "1", "children": [{ "value": "level3A"}]}]}
+{ "value": "root", "children": [{ "value": "1", "children": [{ "value": "level3A", "children": [{ "value": "99.990000"}]}]}]}
+{ "value": "root", "children": [{ "value": "1", "children": [{ "value": "level3A", "children": [{ "value": "99.990000"}, { "value": "99"}]}]}]}
+{ "value": "root", "children": [{ "value": "1", "children": [{ "value": "level3A", "children": [{ "value": "99.990000"}, { "value": "99", "children": [{ "value": "(1,2)"}]}]}]}]}
+{ "value": "root", "children": [{ "value": "1", "children": [{ "value": "level3A", "children": [{ "value": "99.990000"}, { "value": "99", "children": [{ "value": "(1,2)"}]}]}]}, { "value": "2.300000"}]}
+{ "value": "root", "children": [{ "value": "1", "children": [{ "value": "level3A", "children": [{ "value": "99.990000"}, { "value": "99", "children": [{ "value": "(1,2)"}]}]}]}, { "value": "2.300000"}, { "value": "branch"}]}
+{ "value": "root", "children": [{ "value": "1", "children": [{ "value": "level3A", "children": [{ "value": "99.990000"}, { "value": "99", "children": [{ "value": "(1,2)"}]}]}]}, { "value": "2.300000"}, { "value": "branch", "children": [{ "value": "42"}]}]}
+{ "value": "root", "children": [{ "value": "1", "children": [{ "value": "level3A", "children": [{ "value": "99.990000"}, { "value": "99", "children": [{ "value": "(1,2)"}]}]}]}, { "value": "2.300000"}, { "value": "branch", "children": [{ "value": "42"}, { "value": "(3,4)"}]}]}
+{ "value": "root", "children": [{ "value": "1", "children": [{ "value": "level3A", "children": [{ "value": "99.990000"}, { "value": "99", "children": [{ "value": "(1,2)"}]}]}]}, { "value": "2.300000"}, { "value": "branch", "children": [{ "value": "42"}, { "value": "(3,4)", "children": [{ "value": "deepest"}]}]}]}
+{ "value": "root", "children": [{ "value": "1", "children": [{ "value": "level3A", "children": [{ "value": "99.990000"}, { "value": "99", "children": [{ "value": "(1,2)"}]}]}]}, { "value": "2.300000"}, { "value": "branch", "children": [{ "value": "42"}, { "value": "(3,4)", "children": [{ "value": "deepest"}]}]}, { "value": "Teacher{Dr.Brown}"}]}
